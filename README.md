@@ -15,7 +15,10 @@ Email: azuany.mila@gmail.com
 
 [![Azuany's GitHub stats](https://github-readme-stats.vercel.app/api?username=azu-any&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/azu-any/github-readme-stats)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azu-any&layout=compact&theme=tokyonight)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azu-any&repo=github-readme-stats)](https://github.com/azu-any/github-readme-stats)
 
 
 <!--
