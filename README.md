@@ -3,7 +3,7 @@
  I’m currently studying Computer Systems Engineering @ UDLAP. 
 
 # Contact Details 
-![azuany.mila@gmail.com](https://www.linkedin.com/in/azuany-mila/)](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505)
+![azuany.mila@gmail.com](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505)
 Email: azuany.mila@gmail.com
 
 <!--
