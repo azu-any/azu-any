@@ -10,9 +10,9 @@
 Email: azuany.mila@gmail.com
 
 ### Tehcnology Stack
-![image](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png)
+![image](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48)
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
 
 <!--
 **azu-any/azu-any** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
