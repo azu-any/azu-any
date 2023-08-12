@@ -18,10 +18,8 @@ Email: azuany.mila@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azu-any&layout=compact&theme=tokyonight)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azu-any&repo=github-readme-stats)](https://github.com/azu-any/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azu-any&repo=github-readme-stats)](https://github.com/azu-any/github-readme-stats)
 
-
-<!--
 **azu-any/azu-any** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
