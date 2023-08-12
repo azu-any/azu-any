@@ -10,7 +10,7 @@
 Email: azuany.mila@gmail.com
 
 ### Tehcnology Stack
-![image](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48)
+![image](https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=4)
 
 
 
