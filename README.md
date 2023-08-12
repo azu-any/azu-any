@@ -3,7 +3,9 @@
  I’m currently studying Computer Systems Engineering @ UDLAP. 
 
 # Contact Details 
-![azuany.mila@gmail.com](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=medium&logoColor=white" />][in]
+	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 Email: azuany.mila@gmail.com
 
 <!--
@@ -20,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[in]: http://www.linkedin.com/in/azuany-mila
