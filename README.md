@@ -1,4 +1,4 @@
-### Hi! I'm Azuany Mila 
+# Hi! I'm Azuany Mila 
 
  I’m currently studying Computer Systems Engineering @ UDLAP. 
 
