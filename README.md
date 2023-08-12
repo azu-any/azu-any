@@ -4,7 +4,7 @@
 
 # Contact Details 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=medium&logoColor=white" />][in]
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![image]({[BadgeURLHere](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)})	
 
 Email: azuany.mila@gmail.com
 
