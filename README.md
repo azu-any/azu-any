@@ -14,6 +14,7 @@ Email: azuany.mila@gmail.com
 <img alt="LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" width="100"/> 
 
 <img align="left" alt="Azuany's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=azu-any&show_icons=true&hide_border=true" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azu-any)](https://github.com/azu-any/github-readme-stats)
 
 
