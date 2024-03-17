@@ -1,10 +1,6 @@
 [![MasterHead](header.png)](https://github.com/azu-any)
 
-### Hi! I'm Azuany Mila 
-
-# I’m a Computer Systems Engineering student and Quantum enthusiast. 
-
-
+Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusiast.
 
 ### Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][in]
