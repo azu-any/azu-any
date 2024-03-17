@@ -10,8 +10,8 @@
 Email: azuany.mila@gmail.com
 
 ### Tehcnology Stack
-<img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100"/> <img alt="Swift" src="https://www.swift.org/assets/images/swift.svg" width="100"/> <img alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" width="100"/> <img alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="100"/> <img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="100"/> 
-<img alt="LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" width="100"/> 
+<img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="100"/> <img alt="Swift" src="https://www.swift.org/assets/images/swift.svg" height="100"/> <img alt="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" height="100"/> <img alt="C" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height="100"/> <img alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="100"/> 
+<img alt="LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" height="100"/> 
 
 <!--[![Azuany's GitHub stats](https://github-readme-stats.vercel.app/api?username=azu-any&show_icons=true&theme=tokyonight&border_radius=5&hide_border=true&card_width=500&background=56%2C0EEBE9%2C078BEB&rank_icon=github)](https://github.com/azu-any/github-readme-stats)  
 
