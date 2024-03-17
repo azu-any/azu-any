@@ -2,6 +2,11 @@
 
 Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusiast.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azu-any&label=Profile%20views&color=0e75b6&style=flat" alt="azu-any" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azu-any" alt="azu-any" /></a> </p>
+
+
 ### Connect with me
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][in]
 
