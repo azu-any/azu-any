@@ -12,7 +12,7 @@ Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusias
 <a href="https://linkedin.com/in/azuany-mila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azuany-mila" height="30" width="40" /></a>
 <a href="https://instagram.com/azu.any" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azu.any" height="30" width="40" /></a>
 <a href="https://medium.com/@azuany.mila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azuany.mila" height="30" width="40" /></a>
-<a href="https://discord.gg/@azu.any" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@azu.any" height="30" width="40" /></a>
+<a href="https://discord.com/users/753654119981383841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@azu.any" height="30" width="40" /></a>
 </p>
 
 Email: azuany.mila@gmail.com
