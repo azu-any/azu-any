@@ -16,7 +16,7 @@ Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusias
 
 - 👨‍💻 All of my projects are available at [https://azuanymila.me/](https://azuanymila.me/)
 
-- 📝 I regularly write articles on [blog](blog)
+<!--- - 📝 I regularly write articles on [blog](blog)-->
 
 - 💬 Ask me about **Quantum Computing**
 
