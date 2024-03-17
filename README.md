@@ -6,6 +6,28 @@ Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusias
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azu-any&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C" alt="azu-any" /></a> </p>
 
+<!--- 🔭 I’m currently working on [link](link)-->
+
+- 🌱 I’m currently learning **Flask**
+
+<!--- 👯 I’m looking to collaborate on [link](link)-->
+
+<!--- 🤝 I’m looking for help with [project](link)-->
+
+- 👨‍💻 All of my projects are available at [https://azuanymila.me/](https://azuanymila.me/)
+
+- 📝 I regularly write articles on [blog](blog)
+
+- 💬 Ask me about **Quantum Computing**
+
+- 📫 How to reach me **azuany.mila@gmail.com**
+  
+- 😄 Pronouns: She/Her
+
+<!-- - 📄 Know about my experiences [resume](resume)-->
+
+- ⚡ Fun fact **I love watching animes and reading mangas and comics**
+
 
 ### Connect with me
 <p align="left">
@@ -15,7 +37,6 @@ Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusias
 <a href="https://discord.com/users/753654119981383841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@azu.any" height="30" width="40" /></a>
 </p>
 
-Email: azuany.mila@gmail.com
 
 ### Tehcnology Stack
 <p align="left"> 
@@ -31,7 +52,12 @@ Email: azuany.mila@gmail.com
   
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azu-any&show_icons=true&locale=en&layout=compact" alt="azu-any" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azu-any&show_icons=true&locale=en" alt="azu-any" /></p>
+
 <!--[![Azuany's GitHub stats](https://github-readme-stats.vercel.app/api?username=azu-any&show_icons=true&theme=tokyonight&border_radius=5&hide_border=true&card_width=500&background=56%2C0EEBE9%2C078BEB&rank_icon=github)](https://github.com/azu-any/github-readme-stats)  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azu-any&layout=compact&theme=tokyonight&hide_border=true&border_radius=5&card_width=500&background=56%2C0EEBE9%2C078BEB)
 
@@ -40,17 +66,4 @@ Email: azuany.mila@gmail.com
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azu-any&repo=github-readme-stats)](https://github.com/azu-any/github-readme-stats)
 
-**azu-any/azu-any** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [in]: http://www.linkedin.com/in/azuany-mila
