@@ -4,7 +4,7 @@ Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusias
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azu-any&label=Profile%20views" alt="azu-any" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azu-any&theme=onedark" alt="azu-any" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azu-any&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C" alt="azu-any" /></a> </p>
 
 
 ### Connect with me
