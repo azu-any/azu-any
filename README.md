@@ -1,42 +1,67 @@
 [![MasterHead](header.png)](https://github.com/azu-any)
 
-Hi! I’m a sophomore Computer Systems Engineering student and Quantum enthusiast.
+# Hi there, I'm Azuany Mila Ceron 👋
+
+I’m a junior Computer Systems Engineering student and Quantum enthusiast.
+
+### iOS & Vision Pro Developer | AI & Machine Learning Engineer
+
+I'm a Computer Systems Engineering student at Universidad de las Américas Puebla (UDLAP) passionate about developing innovative and user-centric applications within the Apple ecosystem. My focus is on leveraging Artificial Intelligence, particularly computer vision and LLMs, to build meaningful solutions that solve real-world problems.
+
+---
+
+🔭 **What I'm Currently Focused On:**
+- I’m currently a student at the **Apple Developer Academy** in Naples, Italy, where I'm honing my skills in app development, UX/UI design, and business.
+- I'm thrilled to be joining **Apple** as a **SWE Swift Platform Experience Intern** in Cupertino for the summer of 2025!
+
+🤝 **Open to Collaboration:**
+- I'm always interested in projects related to HealthTech, AI-driven developer tools, and educational technology.
+
+---
+
+### 💻 Tech Stack & Tools
+
+My skill set includes a deep proficiency in Swift and Python, and I'm experienced in building applications from concept to deployment.
+
+| **Proficient In** | |
+| :--- | :--- |
+| **Languages** | `Swift` `Python` `C` `Java` |
+| **Apple Development** | `SwiftUI` `Xcode` `visionOS` `ARKit` `iOS` `iPadOS` |
+| **AI / ML** | `TensorFlow` `Keras` `OpenCV` `YOLO` `MMDetection` `LLMs` |
+| **Developer Tools** | `Git` `Xcode Previews` `LaTeX` `SQL` |
+
+<br/>
+
+### ✨ Featured Projects
+
+Here are some of the projects I'm most proud of. You can find more on my [portfolio website](https://azuanymila.me/)!
+
+| Project | Description | Technologies |
+| :--- | :--- | :--- |
+| 🥉 **FemCoding Challenge App** | An award-winning iOS app to connect students with mentors and mentees, featuring a feed, chat, and a custom matching system. | `Swift`, `SwiftUI`, `iOS` |
+| 📱 **Swift Change Makers Hackathon** | An iOS app using AI and AR to detect, filter, and visualize in-store advertisements in real-time. | `Swift`, `ARKit`, `CoreML` |
+| 🧑‍⚕️ **Stomadida** | A multi-platform app for iPadOS and visionOS providing interactive 3D tutorials for ostomy care, developed with international healthcare professionals. | `SwiftUI`, `visionOS`, `iPadOS` |
+
+---
+
+
+
+### 📫 Get in Touch
+<p align="left">
+<a href="https://linkedin.com/in/azuany-mila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azuany-mila" height="30" width="40" /></a>
+<a href="https://medium.com/@azuany.mila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azuany.mila" height="30" width="40" /></a>
+<a href="https://discord.com/users/753654119981383841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@azu.any" height="30" width="40" /></a>
+</p>
+
+⚡ **Fun fact:** I love watching animes and reading mangas and comics!
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azu-any&label=Profile%20views" alt="azu-any" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azu-any&theme=algolia&rank=SSS,SS,S,AAA,AA,A,B,C" alt="azu-any" /></a> </p>
 
-<!--- 🔭 I’m currently working on [link](link)-->
-
-- 🌱 I’m currently learning **Flask**
-
-<!--- 👯 I’m looking to collaborate on [link](link)-->
-
-<!--- 🤝 I’m looking for help with [project](link)-->
-
-- 👨‍💻 All of my projects are available at [https://azuanymila.me/](https://azuanymila.me/)
-
-<!--- - 📝 I regularly write articles on [blog](blog)-->
-
-- 💬 Ask me about **Quantum Computing**
-
-- 📫 How to reach me **azuany.mila@gmail.com**
-  
-- 😄 Pronouns: She/Her
-
-<!-- - 📄 Know about my experiences [resume](resume)-->
-
-- ⚡ Fun fact **I love watching animes and reading mangas and comics**
-
-
-### Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/azuany-mila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azuany-mila" height="30" width="40" /></a>
-<a href="https://instagram.com/azu.any" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azu.any" height="30" width="40" /></a>
-<a href="https://medium.com/@azuany.mila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@azuany.mila" height="30" width="40" /></a>
-<a href="https://discord.com/users/753654119981383841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@azu.any" height="30" width="40" /></a>
-</p>
-
+---
 
 ### Tehcnology Stack
 <p align="left"> 
